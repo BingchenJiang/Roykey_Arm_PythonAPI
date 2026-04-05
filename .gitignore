@@ -1,0 +1,4 @@
+/my_keys/
+/.idea/
+/__pycache__/
+/dongle_auth_rsa.py
